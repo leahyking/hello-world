@@ -1,9 +1,5 @@
 # hello-world
 Learning Something New
-**About Me**
-{
-"firstName": "Leah",
-"age": 37
-}
-```
-*I live in KY with my two kids who are 14 and 2*
+### **About Me**
+*Leah, 37 lives in KY with 2 kids- 14 and 2*
+Looking forward to where this program takes me!
